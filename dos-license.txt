@@ -9,8 +9,7 @@ Copyright (C) 2022 Michael Kolesidis
 
 3. The licensed material may be modified.
 
-4. This license provides an express grant of patent rights 
-   from contributors.
+4. This license provides an express grant of patent rights from contributors.
 
 5. The licensed material may be used and modified in private.
 
