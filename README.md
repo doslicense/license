@@ -2,6 +2,8 @@
 
 This is the official repository of the DOS License. The text that can be found in the LICESE file and and dos-license.txt file is the official text content of the DOS License.
 
+The text is not final, it is a working draft to be finalized and released as Version 1.
+
 ## The Text
 ```
 DOS License
